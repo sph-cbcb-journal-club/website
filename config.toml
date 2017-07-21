@@ -1,6 +1,6 @@
 baseurl = "/website"
 languageCode = "en-us"
-title = "A minimal Hugo website"
+title = "UMD Microbiome Journal Club"
 theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
@@ -42,5 +42,5 @@ publishDir = "docs"
     url = "/index.xml"
 
 [params]
-    description = "THE Journal Club website"
+    description = "THE UMD Mirobiome Journal Club website"
     footer = "&copy; Dan Nasko 2017 | [Github](https://github.com/dnasko) | [Twitter](https://twitter.com/dnasko)"

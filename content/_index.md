@@ -1,10 +1,10 @@
 ---
-title: Home
+title: UMD ubiome jclub
 ---
 
 [<img src="https://github.com/goodroot/hugo-classic/raw/master/images/partywizard.gif" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/goodroot/hugo-classic)
 
-# SPH-CBCB Journal Club
+# UMD Microbiome Journal Club
 
 ### Hosted by the Univeristy of Maryland's School of Publish Health and Center for Bioinformatics & Computational Biology
 
