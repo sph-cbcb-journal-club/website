@@ -6,37 +6,10 @@
     <description>Recent content in Tags on A minimal Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/website/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Blogdown</title>
-      <link>/website/tags/blogdown/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/website/tags/blogdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>/website/tags/markdown/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/website/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MathJax</title>
-      <link>/website/tags/mathjax/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/website/tags/mathjax/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Metagenomics</title>
@@ -44,15 +17,6 @@
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/website/tags/metagenomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pandoc</title>
-      <link>/website/tags/pandoc/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/website/tags/pandoc/</guid>
       <description></description>
     </item>
     
@@ -66,29 +30,11 @@
     </item>
     
     <item>
-      <title>RStudio</title>
-      <link>/website/tags/rstudio/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/website/tags/rstudio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tomatos!</title>
       <link>/website/tags/tomatos/</link>
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/website/tags/tomatos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>/website/tags/tutorial/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/website/tags/tutorial/</guid>
       <description></description>
     </item>
     

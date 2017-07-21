@@ -11,24 +11,6 @@
     
     
     <item>
-      <title>Example</title>
-      <link>/website/categories/example/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/website/categories/example/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>/website/categories/hugo/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/website/categories/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Papers</title>
       <link>/website/categories/papers/</link>
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
