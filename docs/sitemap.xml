@@ -8,12 +8,16 @@
   </url>
   
   <url>
-    <loc>/website/about/</loc>
+    <loc>/website/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/website/categories/</loc>
-    <priority>0</priority>
+    <loc>/website/people/</loc>
+  </url>
+  
+  <url>
+    <loc>/website/resources/</loc>
   </url>
   
   <url>

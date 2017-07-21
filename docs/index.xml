@@ -18,17 +18,26 @@
       
       <guid>/website/meetings/2017-07-28-ottesen/</guid>
       <description>Andrea R. Ottesen, Antonio Gonzalez, Rebecca Bell, Caroline Arce, Steven Rideout, Marc Allard, Peter Evans, Errol Strain, Steven Musser, Rob Knight, Eric Brown, James B. Pettengill Link: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073079
-When: Friday, July 28 at 10am
+When: Friday, July 28 at 10:00AM
 Where: MIAEH conference room (SPH 2242CC)
 Abstract The ability to detect a specific organism from a complex environment is vitally important to many fields of public health, including food safety. For example, tomatoes have been implicated numerous times as vehicles of foodborne outbreaks due to strains of Salmonella but few studies have ever recovered Salmonella from a tomato phyllosphere environment.</description>
     </item>
     
     <item>
-      <title>About Hugo XMin</title>
-      <link>/website/about/</link>
+      <title>Folks on the club mailing list</title>
+      <link>/website/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/website/about/</guid>
+      <guid>/website/people/</guid>
+      <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
+    </item>
+    
+    <item>
+      <title>Helpful resources for your research</title>
+      <link>/website/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/website/resources/</guid>
       <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
     </item>
     
