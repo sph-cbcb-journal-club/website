@@ -2,15 +2,11 @@
 title: Home
 ---
 
-[<img src="https://github.com/goodroot/hugo-classic/raw/master/images/partywizard.gif" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/goodroot/hugo-classic)
+[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
 
-# SPH-CBCB Journal Club
+# HUGO XMIN
 
-### Hosted by the Univeristy of Maryland's School of Public Health and Center for Bioinformatics & Computational Biology
-
-Welcome to the journal club site! This is a monthly joint journal club that will alternate its focus between biological and bioinformatic papers. If you would like to join us contact Sarah Allard (sallard@umd.edu) or Dan Nasko (dnasko@umiacs.umd.edu).
-
-Here you will find links to papers we'll be dicussing in future meetings as well as papers from previous meetings.
+## _Keep it simple, but not simpler_
 
 **XMin** is a Hugo theme written by [Yihui Xie](https://yihui.name) in about four hours: half an hour was spent on the Hugo templates, and 3.5 hours were spent on styling. The main motivation for writing this theme was to provide a really minimal example to beginners of Hugo templates. This XMin theme contains about 130 lines of code in total, including the code in HTML templates and CSS (also counting empty lines).
 
