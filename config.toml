@@ -1,4 +1,4 @@
-baseurl = "https://sph-cbcb-journal-club.github.io/website/"
+baseurl = "https://sph-cbcb-journal-club.github.io/"
 languageCode = "en-us"
 title = "A minimal Hugo website"
 theme = "hugo-xmin"
