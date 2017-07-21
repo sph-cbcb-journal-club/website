@@ -37,9 +37,9 @@ publishDir = "docs"
     name = "Tags"
     url = "/tags/"
     weight = 6
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+# [[menu.main]]
+#     name = "Subscribe"
+#     url = "/index.xml"
 
 [params]
     description = "THE UMD Mirobiome Journal Club website"
