@@ -15,11 +15,11 @@ publishDir = "docs"
 
 [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "/website"
     weight = 1
 [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "/website/about/"
     weight = 2
 [[menu.main]]
     name = "Categories"
