@@ -8,7 +8,7 @@ title: Home
 
 ### Hosted by the Univeristy of Maryland's School of Publish Health and Center for Bioinformatics & Computational Biology
 
-Welcome to the journal club site! This is a joint journal club that alternates its focus on biological and bioinformatic papers. We meet monthly and alternate locations between the school of public health and CBCB.
+Welcome to the journal club site! This is a joint journal club that alternates its focus on biological and bioinformatic papers. We meet monthly and alternate locations between the school of public health and the CBCB.
 
 Here we'll post papers we'll be discussing in upcoming meetings and archive papers from previous meetings.
 

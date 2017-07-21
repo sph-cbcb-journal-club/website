@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>/website/meetings/2017-07-28-ottesen/</loc>
+    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/website/post/2016/02/14/a-plain-markdown-post/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url>
@@ -62,6 +67,12 @@
   
   <url>
     <loc>/website/tags/mathjax/</loc>
+    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/website/meetings/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
