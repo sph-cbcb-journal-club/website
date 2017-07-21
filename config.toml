@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/website"
 languageCode = "en-us"
 title = "A minimal Hugo website"
 theme = "hugo-xmin"
