@@ -6,10 +6,19 @@
     <description>Recent content in Home on A minimal Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/website/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Co-Enriching Microflora Associated with Culture Based Methods to Detect Salmonella from Tomato Phyllosphere</title>
+      <link>/website/meetings/2017-07-28-ottesen/</link>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/website/meetings/2017-07-28-ottesen/</guid>
+      <description>Andrea R. Ottesen, Antonio Gonzalez, Rebecca Bell, Caroline Arce, Steven Rideout, Marc Allard, Peter Evans, Errol Strain, Steven Musser, Rob Knight, Eric Brown, James B. Pettengill Abstract The ability to detect a specific organism from a complex environment is vitally important to many fields of public health, including food safety. For example, tomatoes have been implicated numerous times as vehicles of foodborne outbreaks due to strains of Salmonella but few studies have ever recovered Salmonella from a tomato phyllosphere environment.</description>
+    </item>
     
     <item>
       <title>Another Note on A blogdown Tutorial</title>
@@ -28,17 +37,6 @@
       <guid>/website/note/2017/06/13/a-quick-note/</guid>
       <description>To me, the two most impressive websites based on blogdown are:
  Rob J Hyndman&amp;rsquo;s personal website. Live Free or Dichotomize by Lucy and Nick et al.  I&amp;rsquo;m sure there will be more.</description>
-    </item>
-    
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>/website/meetings/2017-07-28-ottesen/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/website/meetings/2017-07-28-ottesen/</guid>
-      <description>This sample post is mainly for blogdown users. If you do not use blogdown, you can skip the first section.
-1. Markdown or R Markdown This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.</description>
     </item>
     
     <item>

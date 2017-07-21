@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meetings on A minimal Hugo website</title>
-    <link>/website/meetings/</link>
-    <description>Recent content in Meetings on A minimal Hugo website</description>
+    <title>Papers on A minimal Hugo website</title>
+    <link>/website/categories/papers/</link>
+    <description>Recent content in Papers on A minimal Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/website/meetings/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/website/categories/papers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

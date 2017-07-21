@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/website/meetings/2017-07-28-ottesen/</loc>
+    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/website/note/2017/06/14/another-note/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url>
@@ -10,11 +15,6 @@
   <url>
     <loc>/website/note/2017/06/13/a-quick-note/</loc>
     <lastmod>2017-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/website/meetings/2017-07-28-ottesen/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -50,7 +50,7 @@
   
   <url>
     <loc>/website/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -73,7 +73,13 @@
   
   <url>
     <loc>/website/meetings/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/website/tags/metagenomics/</loc>
+    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -86,6 +92,18 @@
   <url>
     <loc>/website/tags/pandoc/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/website/categories/papers/</loc>
+    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/website/tags/pathogen-detection/</loc>
+    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -104,6 +122,12 @@
   <url>
     <loc>/website/tags/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/website/tags/tomatos/</loc>
+    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

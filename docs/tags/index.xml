@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Metagenomics</title>
+      <link>/website/tags/metagenomics/</link>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/website/tags/metagenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pandoc</title>
       <link>/website/tags/pandoc/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
@@ -48,11 +57,29 @@
     </item>
     
     <item>
+      <title>Pathogen detection</title>
+      <link>/website/tags/pathogen-detection/</link>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/website/tags/pathogen-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RStudio</title>
       <link>/website/tags/rstudio/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>/website/tags/rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomatos!</title>
+      <link>/website/tags/tomatos/</link>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/website/tags/tomatos/</guid>
       <description></description>
     </item>
     
