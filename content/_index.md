@@ -12,4 +12,4 @@ Welcome to the journal club site! This is a joint journal club that alternates i
 
 Here we'll post papers we'll be discussing in upcoming meetings and archive papers from previous meetings. We'll also post links to helpful tutorials and software.
 
-All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/). See the [People](/people/) page for a list of folks on the mailing list.
+All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [Meetings](/meetings/), or [Resources](/resources/). See the [People](/people/) page for a list of folks on the mailing list.
