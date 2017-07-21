@@ -1,4 +1,4 @@
-baseurl = "https://sph-cbcb-journal-club.github.io/"
+baseurl = "https://sph-cbcb-journal-club.github.io/website"
 languageCode = "en-us"
 title = "A minimal Hugo website"
 theme = "hugo-xmin"
@@ -15,11 +15,11 @@ publishDir = "docs"
 
 [[menu.main]]
     name = "Home"
-    url = "/website"
+    url = "/"
     weight = 1
 [[menu.main]]
     name = "About"
-    url = "/website/about/"
+    url = "/about/"
     weight = 2
 [[menu.main]]
     name = "Categories"
