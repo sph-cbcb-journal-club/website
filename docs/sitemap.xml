@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/website/meetings/2017-09-01-mcintyre/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/website/meetings/2017-07-28-ottesen/</loc>
     <lastmod>2017-07-28T00:00:00+00:00</lastmod>
   </url>
@@ -22,31 +27,43 @@
   
   <url>
     <loc>/website/meetings/</loc>
-    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/website/tags/metagenomics/</loc>
-    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/website/categories/papers/</loc>
-    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/website/tags/pathogen-detection/</loc>
-    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/website/tags/preprints/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/website/tags/</loc>
-    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/website/tags/taxonomy-classifiers/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -57,8 +74,14 @@
   </url>
   
   <url>
+    <loc>/website/tags/tool-comparisons/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/website/</loc>
-    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

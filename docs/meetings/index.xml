@@ -6,10 +6,22 @@
     <description>Recent content in Meetings on UMD Microbiome Journal Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/website/meetings/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comprehensive Benchmarking and Ensemble Approaches for Metagenomic Classifiers</title>
+      <link>/website/meetings/2017-09-01-mcintyre/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/website/meetings/2017-09-01-mcintyre/</guid>
+      <description>Alexa B. R. McIntyre, Rachid Ounit, Ebrahim Afshinnekoo, Robert J. Prill, Elizabeth Hénaff, Noah Alexander, Sam Minot, David Danko, Jonathan Foox, Sofia Ahsanuddin, Scott Tighe, Nur A. Hasan, Poorani Subramanian, Kelly Moffat, Shawn Levy, Stefano Lonardi, Nick Greenfield, Rita R. Colwell, Gail L. Rosen, Christopher E. Mason Link: http://www.biorxiv.org/content/early/2017/06/28/156919.1
+When: Friday, September 1 at 10:00AM
+Where: CBCB Room 31XX (Biomolecular Sciences Building Rm 31XX)
+Abstract Background One of the main challenges in metagenomics is the identification of microorganisms in clinical and environmental samples.</description>
+    </item>
     
     <item>
       <title>Co-Enriching Microflora Associated with Culture Based Methods to Detect Salmonella from Tomato Phyllosphere</title>

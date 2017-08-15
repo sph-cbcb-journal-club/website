@@ -6,7 +6,7 @@
     <description>Recent content in Tags on UMD Microbiome Journal Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/website/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Metagenomics</title>
       <link>/website/tags/metagenomics/</link>
-      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/website/tags/metagenomics/</guid>
       <description></description>
@@ -23,9 +23,27 @@
     <item>
       <title>Pathogen detection</title>
       <link>/website/tags/pathogen-detection/</link>
-      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/website/tags/pathogen-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preprints</title>
+      <link>/website/tags/preprints/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/website/tags/preprints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxonomy classifiers</title>
+      <link>/website/tags/taxonomy-classifiers/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/website/tags/taxonomy-classifiers/</guid>
       <description></description>
     </item>
     
@@ -35,6 +53,15 @@
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/website/tags/tomatos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tool comparisons</title>
+      <link>/website/tags/tool-comparisons/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/website/tags/tool-comparisons/</guid>
       <description></description>
     </item>
     
